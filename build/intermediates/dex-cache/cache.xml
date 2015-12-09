@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dai_li_fan/AndroidStudioProjects/TestNumberGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/dai_li_fan/AndroidStudioProjects/TestNumberGame/app/build/intermediates/pre-dexed/debug/classes-a4e5cd2222d40673cf8a11a21cb2f0b88088b417.jar" />
+    </item>
+    <item
+        jar="/Users/dai_li_fan/AndroidStudioProjects/TestNumberGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/dai_li_fan/AndroidStudioProjects/TestNumberGame/app/build/intermediates/pre-dexed/debug/classes-0c0a39a9e99d48504fec9b0095ea77d3acf61e8f.jar" />
+    </item>
+    <item
+        jar="/Users/dai_li_fan/Documents/adt-bundle-mac-x86_64-20140624/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/dai_li_fan/AndroidStudioProjects/TestNumberGame/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-168e796c6ec8ce5dd1b357cfb247c689267ab435.jar" />
+    </item>
+    <item
+        jar="/Users/dai_li_fan/AndroidStudioProjects/TestNumberGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/dai_li_fan/AndroidStudioProjects/TestNumberGame/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-32372ee0d99649698f9d52b06eab2f1a101a24bd.jar" />
+    </item>
+
+</items>
